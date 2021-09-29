@@ -1,2 +1,2 @@
 # clock
-A simple terminal clock written in C
+REGECT OOP, RETURN TO C
